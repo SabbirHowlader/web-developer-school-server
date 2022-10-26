@@ -5,30 +5,22 @@
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Learning CSS"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Learning JAVA SCRIPT"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Learning C++"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Learning PHP"
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
+      "name": "Learning LARAVEL"
     }
   ]
