@@ -29,7 +29,7 @@
         "total_view": 488,
         "title": "Learning C++",
         "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
-        "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn!"
+        "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms."
     },
     {
         "category_id": "05",
@@ -37,7 +37,7 @@
         "total_view": 488,
         "title": "Learning PHP",
         "image_url": "http://kwiksaf.com/wp-content/uploads/2022/03/php-image.jpg",
-        "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server"
+        "details": "PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites. It is integrated with a number of popular"
     },
     {
         "category_id": "06",
