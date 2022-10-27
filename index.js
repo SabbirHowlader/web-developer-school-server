@@ -12,6 +12,10 @@ app.get('/', (req, res) => {
     res.send('Developer Api Running');
 });
 
+app.get('/courses', (req, res) => {
+    res.send(card);
+});
+
 app.get('/card-categories', (req, res) =>{
     res.send(categories)
 });
